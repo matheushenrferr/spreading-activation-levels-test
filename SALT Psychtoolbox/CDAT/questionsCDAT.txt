@@ -1,0 +1,10 @@
+Something that can be closed:
+Something that is finite:
+Something that is cyclic:
+Something that is flexible:
+Something that is noisy:
+Something that is slow:
+Something that can be opened:
+Something that you can enter in:
+Something that can grasp objects:
+Something that can be broken:
