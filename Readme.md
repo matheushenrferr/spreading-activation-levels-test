@@ -5,7 +5,7 @@
 
 1. Considering the uncommon nature of mooney (or two-tone) images, we advise researchers to familiarize participants with this kind of stimuli before running PT, FPT and CPT.
 
-2. To obtain the scores for FDAT and CDAT:
+2. To obtain the scores for FDAT and CDAT, you have two options:
     - Visit datcreativity.com/task
     - Download python code at osf.io/bm5fd/
 
