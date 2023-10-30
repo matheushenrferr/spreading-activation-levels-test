@@ -3,9 +3,9 @@
 ## Instructions
 
 
-1. Considering the uncommon nature of mooney (or two-tone) images, we advise researchers to familiarize participants with this kind of stimuli before running PT, FPT and CPT.
+1. Considering the uncommon nature of mooney (or two-tone) images, we advise researchers to familiarize participants with this kind of stimuli before running the AST and the RST.
 
-2. To obtain the scores for FDAT and CDAT, you have two options:
+2. To obtain the scores for AAT and RAT, you have two options:
     - Visit datcreativity.com/task
     - Download python code at osf.io/bm5fd/
 
@@ -19,13 +19,20 @@
 
 
 5. If you wish to include more images in SALT: 
-    - In FPT (for both Psychopy and Psychtoolbox):
-      - Include the image class in wordsFPT.txt
-    - In CPT:
-      - If you're using psychtoolbox:
-        - Change the name and number of the image according to the format order.class.name (for example: 61.32.snake)
+    - In AST:
+      - If you're using Psychtoolbox:
+        - Include the image in the "mooney_images" folder 
       - If you're using Psychopy:
-        - Include the image class in incongruentlables.txt   
+        - Include the image in the "mooney_images" folder
+        - Include the image path and condition (standard or modified) in the file "conditionsASTimages.xlsx"
+    - In RST:
+      - If you're using Psychtoolbox:
+        - Change the name and number of the image according to the format order.class.name (for example: 61.32.snake)
+        - Include the image in the "mooney_images" folder
+      - If you're using Psychopy:
+        - Include the image class in incongruentlables.txt
+        - Include the image in the "mooney_images" folder
+        - Include the image path and identification in the "RST_images" file   
 
 
 ## Credits
