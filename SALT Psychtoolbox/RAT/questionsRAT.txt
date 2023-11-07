@@ -1,10 +1,10 @@
-Something that can be closed:
-Something that come in pairs:
-Something that spreads:
-Something that changes:
-Something that can divide:
-Something that can unite:
-Something that can be opened:
-Something that can be entered:
+Something that comes above another thing:
+Something that comes in pairs:
+Something that comes under another thing:
+Something that comes between things:
+Something that can separate things:
+Something that can unite things:
+Something that comes in fours:
+Something that originates another thing:
 Something that come in threes:
-Something that can be compressed:
+Something that opposes another thing:
